@@ -50,7 +50,7 @@ function AboutPage(props) {
               </div>
             </div>
           </li>
-          {/* <li>
+           <li>
             <div class='card'>
               <img src={rushil} class='card-img-top' alt='appu' />
               <div class='card-body'>
@@ -60,7 +60,7 @@ function AboutPage(props) {
                 <p>UI/UX Developer</p>
               </div>
             </div>
-          </li> */}
+          </li> 
         </ul>
       </Content>
     </div>
